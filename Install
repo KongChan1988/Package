@@ -2,4 +2,10 @@ Install 代码写到一半
 
 dev 准备改代码  临时存放地址
 
+<<<<<<< HEAD
 bug-001改了代码bug
+=======
+dev check again
+
+继续写完代码与master合并
+>>>>>>> dev
